@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2kurotsuki
+- 👋 Hi, I’m @27kurotsuki
 - 👀 I’m interested in ...games, app and animation
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ..games and android app
